@@ -1,0 +1,12 @@
+% 1  Box Size (µm)
+100
+% 2  w/c ratio
+0.4
+% 3  C3S phase density (g/cm3)
+3.21
+% 4  C2S phase density (g/cm3)
+3.28;
+% 5  C3A phase density (g/cm3)
+3.028;
+% 6  C4AF phase density (g/cm3)
+3.73;
