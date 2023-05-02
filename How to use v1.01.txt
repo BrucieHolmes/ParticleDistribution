@@ -1,0 +1,37 @@
+*****************************
+*		            * 
+* HOW TO USE BOGUE ANALYSIS *
+*		            *
+*****************************
+
+------------------------------
+INTRODUCTION
+------------------------------
+The Particle Distribution software, written in MATLAB, is a free-to-use software to plot 1) the Particle Size Distribution (PSD) and 2) place the cement particles within a set space from a Particle Weight Distribution PWD)
+
+Users input their PWD the w/c ratio
+
+------------------------------
+ACCESSING THE SOFTWARE
+------------------------------
+1. Install the most up to date version of MATLAB
+
+2. Open GitHub using the link below
+https://github.com/BrucieHolmes/BogueAnalysis
+
+3. Download the GitHub Repository by opening <Code> (green button) and clicking 'Download to Zip'.
+Save the *.zip folder on your PC.
+
+4. Double-click on the xScript_ParticleDistribution.m script to open the prograame.
+
+5. Update the particle_weight_distribution.txt as necessary. 
+
+6. Open the 'cement_properties.txt' file and update the w/c ratio (0.5 is the default).
+
+7. Save all changes and return to the xScript_ParticleDistribution.m script
+
+------------------------------
+HOW TO UNDERTAKE AN ANALYSIS
+------------------------------
+1. Under 'EDITOR', click Run
+The placed particles and Particle Size Distribution (PSD) and  will be plotted as Figure 1 and 2 respectively.

@@ -11,19 +11,20 @@
     % plotParticles.m
 
     % TEXT FILES:
-    % particle_weight_distribution_####.txt
+    % particle_weight_distribution.txt
+    % cement_properties.txt
     
 %% **************************** READ INPUT DATA ***************************
 clc; close all; clear all;
 tic
 
 % INPUT DATA FILES
-load particle_weight_distribution_20_21048.txt
+load particle_weight_distribution.txt
 load cement_properties.txt
 
 %% ********************** PARTICLE SIZE DISTRIBUTION **********************
-x = particle_weight_distribution_20_21048(1,:);
-y = particle_weight_distribution_20_21048(2,:);
+x = particle_weight_distribution(1,:);
+y = particle_weight_distribution(2,:);
 
 %% ************ VOLUME & WEIGHT CALCULATIONS OF CEMENT PHASES *************
 [Cement_Vol] = volume_calculations (cement_properties);
