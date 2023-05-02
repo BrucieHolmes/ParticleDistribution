@@ -7,9 +7,9 @@
 ------------------------------
 INTRODUCTION
 ------------------------------
-The Particle Distribution software, written in MATLAB, is a free-to-use software to plot 1) the Particle Size Distribution (PSD) and 2) place the cement particles within a set space from a Particle Weight Distribution PWD)
+The Particle Distribution software, written in MATLAB, is a free-to-use software to plot 1) the Particle Size Distribution (PSD) and 2) place the cement particles within a set space from a Particle Weight Distribution (PWD)
 
-Users input their PWD the w/c ratio
+Users input their PWD and the w/c ratio
 
 ------------------------------
 ACCESSING THE SOFTWARE
